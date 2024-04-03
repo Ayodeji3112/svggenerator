@@ -1,0 +1,6 @@
+
+    <svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="200,120 280,280 120,280" fill="Brown" />
+      <text x="200" y="210" font-size="40" text-anchor="middle" fill="White" font-weight="bold">AYO</text>
+    </svg>
+  
